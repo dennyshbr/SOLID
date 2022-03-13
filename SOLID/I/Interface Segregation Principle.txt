@@ -1,0 +1,1 @@
+﻿When class don't need implementing some method of interface, this can be solved by creating new interface segregation

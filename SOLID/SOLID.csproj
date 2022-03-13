@@ -48,8 +48,13 @@
     <Compile Include="D\Correct\ProductRepository.cs" />
     <Compile Include="D\Correct\ProductService.cs" />
     <Compile Include="D\Product.cs" />
-    <Compile Include="D\Violation\ProductRepository.cs" />
     <Compile Include="D\Violation\ProductService.cs" />
+    <Compile Include="I\Correct\IReadUser.cs" />
+    <Compile Include="I\Correct\ReadUser.cs" />
+    <Compile Include="I\User.cs" />
+    <Compile Include="I\Violation\IUser.cs" />
+    <Compile Include="I\Violation\ReadUser.cs" />
+    <Compile Include="I\Violation\UserAdm.cs" />
     <Compile Include="L\Correct\Employee.cs" />
     <Compile Include="L\Correct\Manager.cs" />
     <Compile Include="L\Correct\PayRoll.cs" />
@@ -75,6 +80,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="D\Dependency Inversion Principle.txt" />
+    <Content Include="I\Interface Segregation Principle.txt" />
     <Content Include="L\Liskov Substitution Principle.txt" />
     <Content Include="O\Open-Closed Principle.txt" />
     <Content Include="S\Single Responsability Principle.txt" />
