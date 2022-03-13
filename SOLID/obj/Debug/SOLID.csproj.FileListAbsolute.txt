@@ -6,3 +6,11 @@ C:\Users\denny\OneDrive\Área de Trabalho\Geral\Tecnologia\Cursos Alura\Back End
 C:\Users\denny\OneDrive\Área de Trabalho\Geral\Tecnologia\Cursos Alura\Back End\SOLID\obj\Debug\SOLID.csproj.CoreCompileInputs.cache
 C:\Users\denny\OneDrive\Área de Trabalho\Geral\Tecnologia\Cursos Alura\Back End\SOLID\obj\Debug\SOLID.exe
 C:\Users\denny\OneDrive\Área de Trabalho\Geral\Tecnologia\Cursos Alura\Back End\SOLID\obj\Debug\SOLID.pdb
+C:\Users\denny\OneDrive\Área de Trabalho\Geral\Tecnologia\Cursos Alura\Back End\Solid Principles\SOLID\bin\Debug\SOLID.exe.config
+C:\Users\denny\OneDrive\Área de Trabalho\Geral\Tecnologia\Cursos Alura\Back End\Solid Principles\SOLID\bin\Debug\SOLID.exe
+C:\Users\denny\OneDrive\Área de Trabalho\Geral\Tecnologia\Cursos Alura\Back End\Solid Principles\SOLID\bin\Debug\SOLID.pdb
+C:\Users\denny\OneDrive\Área de Trabalho\Geral\Tecnologia\Cursos Alura\Back End\Solid Principles\SOLID\obj\Debug\SOLID.csproj.AssemblyReference.cache
+C:\Users\denny\OneDrive\Área de Trabalho\Geral\Tecnologia\Cursos Alura\Back End\Solid Principles\SOLID\obj\Debug\SOLID.csproj.SuggestedBindingRedirects.cache
+C:\Users\denny\OneDrive\Área de Trabalho\Geral\Tecnologia\Cursos Alura\Back End\Solid Principles\SOLID\obj\Debug\SOLID.csproj.CoreCompileInputs.cache
+C:\Users\denny\OneDrive\Área de Trabalho\Geral\Tecnologia\Cursos Alura\Back End\Solid Principles\SOLID\obj\Debug\SOLID.exe
+C:\Users\denny\OneDrive\Área de Trabalho\Geral\Tecnologia\Cursos Alura\Back End\Solid Principles\SOLID\obj\Debug\SOLID.pdb

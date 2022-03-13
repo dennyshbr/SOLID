@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\denny\\OneDrive\\Área de Trabalho\\Geral\\Tecnologia\\Cursos Alura\\Back End\\SOLID.Test\\SOLID.Test.csproj": {}
+    "C:\\Users\\denny\\OneDrive\\Área de Trabalho\\Geral\\Tecnologia\\Cursos Alura\\Back End\\Solid Principles\\SOLID.Test\\SOLID.Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\denny\\OneDrive\\Área de Trabalho\\Geral\\Tecnologia\\Cursos Alura\\Back End\\SOLID.Test\\SOLID.Test.csproj": {
+    "C:\\Users\\denny\\OneDrive\\Área de Trabalho\\Geral\\Tecnologia\\Cursos Alura\\Back End\\Solid Principles\\SOLID.Test\\SOLID.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\denny\\OneDrive\\Área de Trabalho\\Geral\\Tecnologia\\Cursos Alura\\Back End\\SOLID.Test\\SOLID.Test.csproj",
+        "projectUniqueName": "C:\\Users\\denny\\OneDrive\\Área de Trabalho\\Geral\\Tecnologia\\Cursos Alura\\Back End\\Solid Principles\\SOLID.Test\\SOLID.Test.csproj",
         "projectName": "SOLID.Test",
-        "projectPath": "C:\\Users\\denny\\OneDrive\\Área de Trabalho\\Geral\\Tecnologia\\Cursos Alura\\Back End\\SOLID.Test\\SOLID.Test.csproj",
+        "projectPath": "C:\\Users\\denny\\OneDrive\\Área de Trabalho\\Geral\\Tecnologia\\Cursos Alura\\Back End\\Solid Principles\\SOLID.Test\\SOLID.Test.csproj",
         "packagesPath": "C:\\Users\\denny\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\denny\\OneDrive\\Área de Trabalho\\Geral\\Tecnologia\\Cursos Alura\\Back End\\SOLID.Test\\obj\\",
+        "outputPath": "C:\\Users\\denny\\OneDrive\\Área de Trabalho\\Geral\\Tecnologia\\Cursos Alura\\Back End\\Solid Principles\\SOLID.Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\denny\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\denny\\OneDrive\\Área de Trabalho\\Geral\\Tecnologia\\Cursos Alura\\Back End\\SOLID\\SOLID.csproj": {
-                "projectPath": "C:\\Users\\denny\\OneDrive\\Área de Trabalho\\Geral\\Tecnologia\\Cursos Alura\\Back End\\SOLID\\SOLID.csproj"
+              "C:\\Users\\denny\\OneDrive\\Área de Trabalho\\Geral\\Tecnologia\\Cursos Alura\\Back End\\Solid Principles\\SOLID\\SOLID.csproj": {
+                "projectPath": "C:\\Users\\denny\\OneDrive\\Área de Trabalho\\Geral\\Tecnologia\\Cursos Alura\\Back End\\Solid Principles\\SOLID\\SOLID.csproj"
               }
             }
           }
@@ -47,6 +47,10 @@
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
               "version": "[16.11.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.17.2, )"
             },
             "coverlet.collector": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
@@ -84,11 +88,11 @@
         }
       }
     },
-    "C:\\Users\\denny\\OneDrive\\Área de Trabalho\\Geral\\Tecnologia\\Cursos Alura\\Back End\\SOLID\\SOLID.csproj": {
+    "C:\\Users\\denny\\OneDrive\\Área de Trabalho\\Geral\\Tecnologia\\Cursos Alura\\Back End\\Solid Principles\\SOLID\\SOLID.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\denny\\OneDrive\\Área de Trabalho\\Geral\\Tecnologia\\Cursos Alura\\Back End\\SOLID\\SOLID.csproj",
+        "projectUniqueName": "C:\\Users\\denny\\OneDrive\\Área de Trabalho\\Geral\\Tecnologia\\Cursos Alura\\Back End\\Solid Principles\\SOLID\\SOLID.csproj",
         "projectName": "SOLID",
-        "projectPath": "C:\\Users\\denny\\OneDrive\\Área de Trabalho\\Geral\\Tecnologia\\Cursos Alura\\Back End\\SOLID\\SOLID.csproj",
+        "projectPath": "C:\\Users\\denny\\OneDrive\\Área de Trabalho\\Geral\\Tecnologia\\Cursos Alura\\Back End\\Solid Principles\\SOLID\\SOLID.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {}
