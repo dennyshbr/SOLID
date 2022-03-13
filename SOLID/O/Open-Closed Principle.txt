@@ -1,0 +1,5 @@
+﻿Open-Closed Principle
+
+Entidades de software (classes, módulos, funções, etc) devem estar abertos para extensão, mas fechados para alteração.
+
+Entities of software (class, modules, functions, etc) must be open to extension, but closing to change.
